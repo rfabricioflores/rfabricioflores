@@ -4,8 +4,8 @@
   "description": "readme",
   "main": "index.js",
   "scripts": {
-    "build": "sass --no-source-map main.scss main.css --style compressed",
-    "watch": "sass --no-source-map --watch main.scss main.css"
+    "build": "sass --no-source-map src/main.scss src/main.css --style compressed",
+    "watch": "sass --no-source-map --watch src/main.scss src/main.css"
   },
   "repository": {
     "type": "git",
