@@ -1,8 +1,6 @@
 <svg fill="none" viewBox="0 0 600 400" width="600" height="400" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%" sandbox="allow-same-origin allow-scripts allow-popups allow-forms">
+  <foreignObject width="100%" height="100%" sandbox="allow-same-origin">
     <div xmlns="http://www.w3.org/1999/xhtml">
-        <meta http-equiv=”Content-Security-Policy”
-        content=”default-src ’self’; img-src *”>
         <style>
             * {
                 margin: 0;
