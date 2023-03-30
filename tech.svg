@@ -64,7 +64,14 @@
                 }
             }
         </style>
-
+        <img src="https://placehold.it/200"
+           srcset="https://placehold.it/800 800w,
+                   https://placehold.it/600 600w,
+                   https://placehold.it/400 400w,
+                   https://placehold.it/200 200w"
+           sizes="200px"
+           width="200" height="200"
+           alt="A responsive placeholder image">
         <div class='section'>
             <div class='items'>
                 <span class='asset angular'></span>
