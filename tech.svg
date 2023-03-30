@@ -67,17 +67,17 @@
 
         <div class='section'>
             <div class='items'>
-                <span class="asset angular"></span>
+                <span class='asset angular'></span>
                 <span class='text'>Angular</span>
             </div>
 
             <div class='items'>
-                <span class="asset react"></span>
+                <span class='asset react'></span>
                 <span class='text'>React</span>
             </div>
 
             <div class='items'>
-                <span class="asset nodejs"></span>
+                <span class='asset nodejs'></span>
                 <span class='text'>NodeJS</span>
             </div>
 
