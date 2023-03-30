@@ -12,12 +12,6 @@
                 box-sizing: border-box;
             }
 
-            i {
-                font-size: 1rem;
-                color: white;
-            }
-
-
             .section {
                 display: grid;
                 grid-template-columns: 1fr 1fr 1fr;
@@ -71,10 +65,8 @@
             }
         </style>
 
-        <link rel="stylesheet" type="text/css" href="https://use.fontawesome.com/releases/v6.3.0/css/all.css">
         <div class='section'>
             <div class='items'>
-                <i class="fas fa-arrow-circle-up"></i>
                 <span class='asset angular'></span>
                 <span class='text'>Angular</span>
             </div>
