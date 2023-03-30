@@ -37,6 +37,13 @@
                 filter: invert(-100%);
             }
 
+            .angular {
+                background-image: url('https://cdn.discordapp.com/attachments/1090936964783538206/1090971270125985792/angular.svg');
+                background-repeat: no-repeat;
+                background-position: center;
+                background-size: cover;
+            }
+
             .text {
                 color: white;
             }
@@ -51,6 +58,7 @@
 
         <div class='section'>
             <div class='items'>
+                <span class="asset angular"></span>
                 <span class='text'>Angular</span>
             </div>
 
