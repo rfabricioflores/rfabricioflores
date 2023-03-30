@@ -21,12 +21,6 @@
 </ul>
 
 <br></br>
-<h3>Programming languages & tools</h3>
-<a href="https://fabricioflores.se">
-    <img src="https://raw.githubusercontent.com/MrFabri/MrFabri/main/tech.svg" width="100%">
-</a>
-<br></br>
-
 <h3>Github Stats<h3>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrFabri&show_icons=true&theme=transparent)](https://fabricioflores.se)
@@ -34,3 +28,9 @@
 <h3> </h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrFabri)](https://fabricioflores.se)
+
+<br></br>
+<h3>Programming languages & tools</h3>
+<a href="https://fabricioflores.se">
+    <img src="https://raw.githubusercontent.com/MrFabri/MrFabri/main/tech.svg" width="100%">
+</a>
