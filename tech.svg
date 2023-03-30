@@ -109,6 +109,10 @@
                 <span class='text'>Figma</span>
             </div>
         </div>
+
+        <script>
+            console.log('hello from foreign')    
+        </script>
     </div>
   </foreignObject>
 </svg>
