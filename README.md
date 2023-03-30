@@ -20,6 +20,10 @@
     </li>
 </ul>
 
+<br></br>
+<h3>Programming languages & tools</h3>
+<img src="https://raw.githubusercontent.com/MrFabri/MrFabri/main/tech.svg" width="100%">
+<br></br>
 
 <h3>Github Stats<h3>
 
