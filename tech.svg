@@ -42,15 +42,15 @@
             }
 
             .angular {
-                background-image: url('https://raw.githubusercontent.com/MrFabri/MrFabri/main/assets/angular.svg');
+                background-image: url('https://cdn.discordapp.com/attachments/1090936964783538206/1090981150186541126/angular.svg');
             }
 
             .react {
-                background-image: url('https://raw.githubusercontent.com/MrFabri/MrFabri/main/assets/react.svg');
+                background-image: url('https://cdn.discordapp.com/attachments/1090936964783538206/1090981172944846908/react.svg');
             }
 
             .nodejs {
-                background-image: url('https://raw.githubusercontent.com/MrFabri/MrFabri/main/assets/nodejs.svg');
+                background-image: url('https://cdn.discordapp.com/attachments/1090936964783538206/1090981199259901982/nodejs.svg');
             }
 
             .text {
