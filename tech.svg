@@ -35,13 +35,22 @@
                 width: 1.5rem;
                 height: 1.5rem;
                 filter: invert(-100%);
-            }
-
-            .angular {
-                background-image: url('https://cdn.discordapp.com/attachments/1090936964783538206/1090971270125985792/angular.svg');
+                color: white;
                 background-repeat: no-repeat;
                 background-position: center;
                 background-size: cover;
+            }
+
+            .angular {
+                background-image: url('https://github.com/MrFabri/MrFabri/blob/main/assets/angular.svg');
+            }
+
+            .react {
+                background-image: url('https://github.com/MrFabri/MrFabri/blob/main/assets/react.svg');
+            }
+
+            .nodejs {
+                background-image: url('https://github.com/MrFabri/MrFabri/blob/main/assets/nodejs');
             }
 
             .text {
@@ -63,10 +72,12 @@
             </div>
 
             <div class='items'>
+                <span class="asset react"></span>
                 <span class='text'>React</span>
             </div>
 
             <div class='items'>
+                <span class="asset nodejs"></span>
                 <span class='text'>NodeJS</span>
             </div>
 
