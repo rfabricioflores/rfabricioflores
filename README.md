@@ -22,7 +22,8 @@
 
 <br></br>
 <h3>Programming languages & tools</h3>
-<img src="https://cdn.discordapp.com/attachments/1090936964783538206/1090961067796070510/tech.svg" width="100%"><img>
+<img src="https://cdn.discordapp.com/attachments/1090936964783538206/1090969883514245161/tech.svg" width="100%"><img>
+
 
 <br></br>
 <h3>Github Stats<h3>
