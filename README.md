@@ -1,5 +1,6 @@
 [![Typing SVG](https://cdn.discordapp.com/attachments/1090936964783538206/1090937499469234237/headline.svg)](https://fabricioflores.se)
-
+<hr>
+<br></br>
 <h3>About me</h3>
 <p>A skilled developer with a passion for creating visually appealing and user-friendly websites. Expert in various programming languages and technologies to bring ideas to life.</p>
 <ul>
@@ -16,9 +17,25 @@
         Experienced in developing and deploying API's in Node and Deno
     </li>
     <li>
-        DiscordJS Bots
+        Databases
+    </li>
+    <li>
+        Discord Bots
     </li>
 </ul>
+
+<br></br>
+<h3>Contact me</h3>
+
+<ul>
+    <li>
+        📧 Send a mail to <a href = "mailto: contact@fabricioflores.se">contact@fabricioflores.se</a>
+    </li>
+    <li>
+        🔗 Use my contact form at <a href="https://fabricioflores.se/contact">www.fabricioflores.se</a>
+    </li>
+</ul>
+
 
 <br></br>
 <h3>Github Stats<h3>
