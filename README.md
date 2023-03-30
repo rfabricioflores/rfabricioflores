@@ -25,4 +25,5 @@
 <h3>Github Stats<h3>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrFabri&show_icons=true&theme=transparent)](https://fabricioflores.se)
+&NewLine;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrFabri)](https://fabricioflores.se)
