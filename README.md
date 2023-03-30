@@ -22,7 +22,7 @@
 
 <br></br>
 <h3>Programming languages & tools</h3>
-<img src="https://github.com/MrFabri/MrFabri/blob/main/tech.svg" width="100%"><img>
+<img src="https://raw.githubusercontent.com/MrFabri/MrFabri/main/tech.svg" width="100%"><img>
 
 
 <br></br>
