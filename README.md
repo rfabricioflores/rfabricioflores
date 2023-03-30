@@ -20,10 +20,11 @@
     </li>
 </ul>
 
-<br></br>
 
 <h3>Github Stats<h3>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrFabri&show_icons=true&theme=transparent)](https://fabricioflores.se)
-&NewLine;
+
+<h3> </h3>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrFabri)](https://fabricioflores.se)
