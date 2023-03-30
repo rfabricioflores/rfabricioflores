@@ -21,11 +21,6 @@
 </ul>
 
 <br></br>
-<h3>Programming languages & tools</h3>
-<img src="https://cdn.discordapp.com/attachments/1090936964783538206/1090981897267593236/tech.svg" width="100%">
-
-
-<br></br>
 <h3>Github Stats<h3>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrFabri&show_icons=true&theme=transparent)](https://fabricioflores.se)
