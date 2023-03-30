@@ -1,0 +1,23 @@
+{
+  "name": "mrfabri",
+  "version": "1.0.0",
+  "description": "readme",
+  "main": "index.js",
+  "scripts": {
+    "build": "sass --no-source-map main.scss main.css --style compressed",
+    "watch": "sass --no-source-map --watch main.scss main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrFabri/MrFabri.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrFabri/MrFabri/issues"
+  },
+  "homepage": "https://github.com/MrFabri/MrFabri#readme",
+  "devDependencies": {
+    "sass": "^1.60.0"
+  }
+}
