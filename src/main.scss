@@ -19,7 +19,7 @@ h1, h2, h3, h4, h5 {
     grid-template-columns: 1fr 1fr 1fr;
     gap: .5rem .7rem;
 
-    >.items {
+    .items {
         border-radius: 8px;
         padding: .4rem .5rem;
         box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
@@ -27,7 +27,7 @@ h1, h2, h3, h4, h5 {
         align-items: center;
         background-color: rgb(243, 243, 243);
 
-        >.asset {
+        .asset {
             margin-right: .5rem;
             pointer-events: none;
             width: 1rem;
@@ -39,7 +39,7 @@ h1, h2, h3, h4, h5 {
             background-size: cover;
         }
 
-        >.text {
+        .text {
             transform: translateY(-5%);
             color: rgb(0, 0, 0);
             font-size: .6rem;
