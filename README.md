@@ -24,6 +24,10 @@
     </li>
 </ul>
 
+<a href="https://fabricioflores.se">
+    <img src="https://raw.githubusercontent.com/MrFabri/MrFabri/main/welcome.svg" width="100%">
+</a>
+
 <br></br>
 <h3>Contact me</h3>
 
