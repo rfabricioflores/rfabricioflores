@@ -9,9 +9,25 @@
     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
 }
 
+::-webkit-scrollbar { width: 2px; height: 3px;}
+::-webkit-scrollbar-button {  background-color: rgb(134, 126, 126);}
+::-webkit-scrollbar-track {  background-color: #fff;}
+::-webkit-scrollbar-track-piece { background-color: #606166;}
+::-webkit-scrollbar-thumb { height: 50px; background-color: rgb(134, 126, 126); border-radius: 5px;}
+::-webkit-scrollbar-corner { background-color: #fff;}
+::-webkit-resizer { background-color: #fff;}
+
 h1, h2, h3, h4, h5 {
     color: rgb(163, 163, 163);
     margin-bottom: 1rem;
+}
+
+.test {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    color: white;
+    height: 800px;
 }
 
 svg  {
@@ -20,8 +36,9 @@ svg  {
 }
 
 .container {
+    overflow-y: scroll;
     width: 100%;
-    height: 200px;
+    height: 100%;
 }
 
 .tech {
