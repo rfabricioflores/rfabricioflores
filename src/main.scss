@@ -14,7 +14,14 @@ h1, h2, h3, h4, h5 {
     margin-bottom: 1rem;
 }
 
+.container {
+    width: 100%;
+    height: 200px;
+}
+
 .tech {
+    width: 100%;
+    height: auto;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: .5rem .7rem;
@@ -55,6 +62,10 @@ h1, h2, h3, h4, h5 {
 }
 
 @media screen and (max-width: 400px) {
+    .container {
+        height: 400px;
+    }
+
     .tech {
         display: grid;
         grid-template-columns: 1fr;
