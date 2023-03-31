@@ -50,7 +50,6 @@
             background-size: cover;
             }
             .tech .items .text {
-            transform: translateY(-1px);
             color: rgb(0, 0, 0);
             font-size: 0.6rem;
             }
