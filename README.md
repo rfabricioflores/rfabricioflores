@@ -10,7 +10,7 @@
 
 <h3>💡 About me</h3>
 <p>A skilled developer with a passion for creating visually appealing and user-friendly websites. Expert in various programming languages and technologies to bring ideas to life.</p>
-<p>⠀ </p>
+⠀ 
 <div>
     <p>🔗 Server Side Rendering (SSR) webpages</p>
     <p>🔗 Single Page Applications (SPA) with Angular and React
@@ -31,7 +31,7 @@
 
 <br></br>
 <h3>📱 Contact me</h3>
-<p>⠀ </p>
+⠀ 
 <div>
     <p>
         🔗 Send a mail to <a href = "mailto: contact@fabricioflores.se">contact@fabricioflores.se</a>
@@ -44,10 +44,11 @@
 
 <br></br>
 <h3>📈 Github Stats<h3>
+⠀ 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrFabri&show_icons=true&theme=transparent)](https://fabricioflores.se)
 
-<p> </p>
+⠀ 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrFabri)](https://fabricioflores.se)
 
