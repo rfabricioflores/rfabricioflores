@@ -3,64 +3,67 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
         <style>
             * {
-            margin: 0;
-            padding: 0;
-            color: inherit;
-            text-decoration: none;
-            list-style: none;
-            outline: none;
-            box-sizing: border-box;
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+                margin: 0;
+                padding: 0;
+                color: inherit;
+                text-decoration: none;
+                list-style: none;
+                outline: none;
+                box-sizing: border-box;
+                font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
             }
 
             h1, h2, h3, h4, h5 {
-            color: rgb(163, 163, 163);
-            margin-bottom: 1rem;
+                color: rgb(163, 163, 163);
+                margin-bottom: 1rem;
             }
 
             .container {
-            width: 100%;
-            height: 200px;
+                width: 100%;
+                height: 200px;
             }
 
             .tech {
-            width: 100%;
-            height: auto;
-            display: grid;
-            grid-template-columns: 1fr 1fr 1fr;
-            gap: 0.5rem 0.7rem;
+                width: 100%;
+                height: auto;
+                display: grid;
+                grid-template-columns: 1fr 1fr 1fr;
+                gap: .5rem .7rem;
             }
-            .tech .items {
-            border-radius: 8px;
-            padding: 0.4rem 0.5rem;
-            box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
-            display: flex;
-            align-items: center;
-            background-color: rgb(243, 243, 243);
+
+            .items {
+                border-radius: 8px;
+                padding: .4rem .5rem;
+                box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+                display: flex;
+                align-items: center;
+                background-color: rgb(243, 243, 243);
             }
-            .tech .items .asset {
-            display: inline-block;
-            margin-right: 0.5rem;
-            width: 1rem;
-            height: 1rem;
-            filter: invert(100%);
-            color: white;
-            background-repeat: no-repeat;
-            background-position: center;
-            background-size: cover;
+
+            .asset {
+                display: inline-block;
+                margin-right: .5rem;
+                width: 1rem;
+                height: 1rem;
+                filter: invert(100%);
+                color: white;
+                background-repeat: no-repeat;
+                background-position: center;
+                background-size: cover;
             }
-            .tech .items .text {
-            color: rgb(0, 0, 0);
-            font-size: 0.6rem;
+
+            .text {
+                transform: translateY(-1px);
+                color: rgb(0, 0, 0);
+                font-size: .6rem;
             }
 
             @media screen and (max-width: 600px) {
-            .tech {
-                display: grid;
-                grid-template-columns: 1fr 1fr;
+                .tech {
+                    display: grid;
+                    grid-template-columns: 1fr 1fr;
+                }
             }
-            }
-
         </style>
 
         <!-- Start -->
