@@ -60,14 +60,3 @@ h1, h2, h3, h4, h5 {
         grid-template-columns: 1fr 1fr;
     }
 }
-
-@media screen and (max-width: 400px) {
-    .container {
-        height: 400px;
-    }
-
-    .tech {
-        display: grid;
-        grid-template-columns: 1fr;
-    }
-}
