@@ -1,4 +1,4 @@
-[![Typing SVG](https://cdn.discordapp.com/attachments/1090936964783538206/1090937499469234237/headline.svg)](https://fabricioflores.se)
+[![Typing SVG](https://cdn.discordapp.com/attachments/1090936964783538206/1129316164821065748/webdev-des.svg)](https://fabricioflores.se)
 <hr>
 <br></br>
 
