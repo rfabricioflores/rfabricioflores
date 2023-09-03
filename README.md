@@ -46,11 +46,11 @@
 <h3>📈 Github Stats<h3>
 ⠀ 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrFabri&show_icons=true&theme=transparent)](https://fabricioflores.se)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rfabricioflores&show_icons=true&theme=transparent)](https://fabricioflores.se)
 
 ⠀ 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrFabri)](https://fabricioflores.se)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rfabricioflores)](https://fabricioflores.se)
 
 <br></br>
 <h3>💻 Programming languages & tools</h3>
