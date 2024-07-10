@@ -1,9 +1,9 @@
-[![Typing SVG](https://cdn.discordapp.com/attachments/1090936964783538206/1129316164821065748/webdev-des.svg)](https://fabricioflores.se)
+[![Typing SVG](https://fabricioflores.se/gh/webdev-des.svg)](https://fabricioflores.se)
 <hr>
 <br></br>
 
 <a href="https://fabricioflores.se">
-    <img src="https://cdn.discordapp.com/attachments/1090936964783538206/1091327106505510993/welcome.svg" width="100%">
+    <img src="https://fabricioflores.se/gh/welcome.svg" width="100%">
 </a>
 
 <br></br>
@@ -55,5 +55,5 @@
 <br></br>
 <h3>💻 Programming languages & tools</h3>
 <a href="https://fabricioflores.se">
-    <img src="https://cdn.discordapp.com/attachments/1090936964783538206/1091327105675055205/tech.svg" width="100%">
+    <img src="https://fabricioflores.se/gh/tech.svg" width="100%">
 </a>
